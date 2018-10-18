@@ -7,22 +7,22 @@ The following code contains two sides:
 
 The code uses a socket library to establish a connection between the server side and the client side by using the TCP protocol.
 # Features
-* The user can choose a nickname that will be displayed to the other chat members when he sends a message
-* The ping button is used to check for proper communication with the server
-* The Who is here? button: Because the client does not have a user list, you can click this button to check which chat 
+* **The user can choose a nickname** that will be displayed to the other chat members when he sends a message
+* **The ping button** is used to check for proper communication with the server
+* **The Who is here? button:** Because the client does not have a user list, you can click this button to check which chat 
 members are connected to the server. (The client side that receives the user list call, responds by sending its username to the other members of the chat)
-* File encryption: You can encrypt (when you send a message) and decrypt (when you receive a message) by using a private key shared by both sides of the client.
+* **File encryption:** You can encrypt (when you send a message) and decrypt (when you receive a message) by using a private key shared by both sides of the client.
 If a third user enters the server and does not share the key of the current users, he will not be able to view their messages.
 You can disable or allow the encryption of the message at any time (default is enabled)
-* File traffic: You can share a file with other chat members. The beta version allows sending files only from the client side to the server side. (Network traffic encryption not yet supported)
+* **File traffic:** You can share a file with other chat members. The beta version allows sending files only from the client side to the server side. (Network traffic encryption not yet supported)
 You can open received folder by clicking the ‘Received folder’ button.
 Client-side can disable the auto receiving files.
-* Settings file: Users settings (Server, port, nickname, key, and buffer) will be saved in 'settings.txt' when the user sets the value in the fields.
+* **Settings file:** Users settings (Server, port, nickname, key, and buffer) will be saved in 'settings.txt' when the user sets the value in the fields.
 If the settings file will be deleted, default settings will be loaded to a new file.
-* Logs: All the messages automatically logged by client side to a file named 'logs\%d-%m-%Y.txt'
+* **Logs:** All the messages automatically logged by client side to a file named 'logs\%d-%m-%Y.txt'
 You can delete the log file by clicking 'Delete' button.
-* MOTD (a welcome message) is located in ‘motd.txt’ file (server side).
-* Highlight: All messages that include client’s own username, will highlight in blue color.
+* **MOTD:** (a welcome message) is located in ‘motd.txt’ file (server side).
+* **Highlight:** All messages that include client’s own username, will highlight in blue color.
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/ronbenbenishti/Chat/master/screenshots/pic-client.png)
 
