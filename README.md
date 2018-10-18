@@ -69,8 +69,8 @@ After running, python and modules requirements are not relevant for the client s
 
 #### Python
 ```sh
-$ chmod +x client.py
-$ ./client
+chmod +x client.py
+./client
 ```
 # Acknowledgments
 * Daniel Oz
