@@ -24,6 +24,10 @@ You can delete the log file by clicking 'Delete' button.
 * MOTD (a welcome message) is located in ‘motd.txt’ file (server side).
 * Highlight: All messages that include client’s own username, will highlight in blue color.
 
+![Image of Yaktocat](https://raw.githubusercontent.com/ronbenbenishti/Chat/master/screenshots/pic-client.png)
+
+![Image of Yaktocat](https://raw.githubusercontent.com/ronbenbenishti/Chat/master/screenshots/pic-server.png)
+
 # Getting Started
 ## Prerequisites:
 * **Python 2.7**
