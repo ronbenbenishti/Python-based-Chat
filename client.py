@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # imports
 import os, sys, tkFileDialog, threading, signal, tkMessageBox, random
 from socket import *
