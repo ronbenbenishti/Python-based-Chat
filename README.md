@@ -16,13 +16,13 @@ The client side that receives the user list call, responds by sending his userna
 If a third user enters the server and does not share the key of the current users, he will not be able to view their messages.
 You can disable or allow the encryption of the message at any time (default is enabled)
 * **File traffic:** You can share a file with other chat members. The beta version allows sending files only from the client side to the server side. (Network traffic encryption not yet supported)
-You can open received folder by clicking the __‘Received folder’__ button.
+You can open received folder by clicking the _‘Received folder’_ button.
 Client-side can disable the auto receiving files.
-* **Settings file:** Users settings (Server, port, nickname, key, and buffer) will be saved in __'settings.txt'__ when the user sets the value in the fields.
+* **Settings file:** Users settings (Server, port, nickname, key, and buffer) will be saved in _'settings.txt'_ when the user sets the value in the fields.
 If the settings file will be deleted, default settings will be loaded to a new file.
-* **Logs:** All the messages automatically logged by client side to a file named __'logs\%d-%m-%Y.txt'__
-You can delete the log file by clicking __'Delete'__ button.
-* **MOTD:** (a welcome message) is located in __‘motd.txt’__ file (server side).
+* **Logs:** All the messages automatically logged by client side to a file named _'logs\%d-%m-%Y.txt'_
+You can delete the log file by clicking _'Delete'_ button.
+* **MOTD:** (a welcome message) is located in _‘motd.txt’_ file (server side).
 * **Highlight:** All messages that include client’s own username, will highlight in blue color.
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/ronbenbenishti/Chat/master/screenshots/pic-client.png)
