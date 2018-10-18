@@ -662,6 +662,6 @@ class Chat_GUI():
 
         self.Message = Message(self.Frame_R)                                   # Credits Message
         self.Message.place(relx=0.04, rely=0.9, relheight=0.1, relwidth=0.93)
-        self.Message.configure(width=210, justify='center' ,text="Chat client based Python\nCreated by:\nRon Benbenishti")
+        self.Message.configure(width=210, justify='center' ,text="Python-based chat client\nCreated by:\nRon Benbenishti")
 
 vp_start_gui()
