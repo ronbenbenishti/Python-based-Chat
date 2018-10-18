@@ -1,6 +1,6 @@
 # Python Chat 1.2v (beta) #
 
-The following code was written as a home job as part of a Cyber and Information Security course at HackerU College.
+The following code was written as a home project as part of a Cyber and Information Security course at HackerU College.
 The following code contains two sides:
 * Server side (Host) – CLI
 *	User side (Client) - GUI
