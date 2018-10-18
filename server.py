@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from socket import *
 from datetime import datetime
 from time import *
