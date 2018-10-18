@@ -32,7 +32,7 @@ You can delete the log file by clicking _'Delete'_ button.
 # Getting Started #
 ## Prerequisites: ##
 * **Python 2.7**
-**Modules in use**:
+* **Modules in use**:
   * Thread
   * select
   * Queue
