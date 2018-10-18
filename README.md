@@ -76,4 +76,4 @@ chmod +x client.py
 # Acknowledgments #
 * Daniel Oz
 * Stackoverflow
-* Python
+* Python 2.7 Official Documentation
