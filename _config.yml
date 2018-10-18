@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+title: Chat
+description: Python-based Chat client
+show_downloads: true
