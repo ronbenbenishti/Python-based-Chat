@@ -2,8 +2,8 @@
 
 The following code was written as a home job as part of a Cyber and Information Security course at Hacker-Yu College.
 The following code contains two sides:
-* Server Side (Host) – CLI
-*	User side (client) - GUI
+* Server side (Host) – CLI
+*	User side (Client) - GUI
 
 The code uses a socket library to establish a connection between the server side and the client side by using the TCP protocol.
 # Features
