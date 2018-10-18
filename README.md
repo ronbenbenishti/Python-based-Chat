@@ -1,4 +1,4 @@
-# Python Chat 1.2v (beta)
+# Python Chat 1.2v (beta) #
 
 The following code was written as a home job as part of a Cyber and Information Security course at Hacker-Yu College.
 The following code contains two sides:
@@ -6,7 +6,7 @@ The following code contains two sides:
 *	User side (Client) - GUI
 
 The code uses a socket library to establish a connection between the server side and the client side by using the TCP protocol.
-# Features
+# Features #
 * **The user can choose a nickname** that will be displayed to the other chat members when he sends a message
 * **The ping button** is used to check for proper communication with the server
 * **The Who is here? button:** Because the client does not have a user list, you can click this button to check which chat 
@@ -29,8 +29,8 @@ You can delete the log file by clicking __'Delete'__ button.
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/ronbenbenishti/Chat/master/screenshots/pic-server.png)
 
-# Getting Started
-## Prerequisites:
+# Getting Started #
+## Prerequisites: ##
 * **Python 2.7**
 **Modules in use**:
   * Thread
@@ -44,21 +44,21 @@ You can delete the log file by clicking __'Delete'__ button.
   * tkMessageBox
   * signal
 
-## Installing
+## Installing ##
 ```sh
 git clone https://github.com/ronbenbenishti/Chat.git
 ```
 
-# How to use
-### Server Side:
+# How to use #
+### Server Side: ###
 
 ```sh
 chmod +x server.py
 ./server –-ip <SERVER_IP> --port <SERVER_PORT>
 ```
 
-### Client Side:
-#### Executable
+### Client Side: ###
+#### Executable ####
 
 ```sh
 chmod +x setup.py
@@ -68,12 +68,12 @@ All the relevant files will appear in _‘\build\exe.win-amd64-2.7\’_
 Run _‘client.exe’_
 After running, python and modules requirements are not relevant for the client side.
 
-#### Python
+#### Python ####
 ```sh
 chmod +x client.py
 ./client
 ```
-# Acknowledgments
+# Acknowledgments #
 * Daniel Oz
 * Stackoverflow
 * Python
