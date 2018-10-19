@@ -43,6 +43,7 @@ You can delete the log file by clicking _'Delete'_ button.
   * tkFileDialog
   * tkMessageBox
   * signal
+  * cs_Freeze
 
 ## Installing ##
 ```sh
