@@ -25,9 +25,9 @@ You can delete the log file by clicking _'Delete'_ button.
 * **MOTD:** (a welcome message) is located in _‘motd.txt’_ file (server side).
 * **Highlight:** All messages that include client’s own username, will highlight in blue color.
 
-![Image of Yaktocat](https://raw.githubusercontent.com/ronbenbenishti/Chat/master/screenshots/pic-client.png)
+![Image of Yaktocat](https://github.com/ronbenbenishti/Python-based-Chat/blob/master/screenshots/pic-client.png)
 
-![Image of Yaktocat](https://raw.githubusercontent.com/ronbenbenishti/Chat/master/screenshots/pic-server.png)
+![Image of Yaktocat](https://github.com/ronbenbenishti/Python-based-Chat/blob/master/screenshots/pic-server.png)
 
 # Getting Started #
 ## Prerequisites: ##
@@ -47,7 +47,7 @@ You can delete the log file by clicking _'Delete'_ button.
 
 ## Installing ##
 ```sh
-git clone https://github.com/ronbenbenishti/Chat.git
+git clone https://github.com/ronbenbenishti/Python-based-Chat.git
 ```
 
 # How to use #
